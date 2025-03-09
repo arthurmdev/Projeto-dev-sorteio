@@ -95,7 +95,7 @@ button.active {
         height: 50px;
         font-size: 20px; /* Valor ajustado para mobile */
         line-height: 20px;
-        width: 90px;
+        width: 150px;
         max-width: 342px;
         /* Mantido align-items conforme solicitado */
     }
