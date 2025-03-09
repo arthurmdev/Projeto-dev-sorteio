@@ -29,6 +29,10 @@ h2 {
     margin-bottom: 26px;
 }
 
+div {
+    margin: 0 auto;
+}
+
 input {
     background: rgba(255, 255, 255, 0.25);
     border: 1px solid rgba(255, 255, 255, 0.2);
@@ -68,4 +72,36 @@ button.hover {
 
 button.active {
     opacity: 0.8;
+}
+
+@media (max-width: 768px) {
+    h2 {
+        font-size: 24px;
+        line-height: 30px;
+        margin-top: 60px;
+    }
+
+    div {
+        margin-top: 0px;
+        
+    }
+
+    input {
+        height: 50px;
+        font-size: 20px;
+        line-height: 20px;
+        align-items: center;
+        width: 300px;
+    }
+
+
+    button {
+        height: 50px;
+        font-size: 20px;
+        width: 90%;
+        max-width: 342px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
 }
