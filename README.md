@@ -2,10 +2,6 @@
 
 Bem-vindo ao projeto **Sorteio Online**! Este projeto é uma aplicação web simples para realizar sorteios aleatórios, ideal para portfólio e aprendizado de HTML, CSS e JavaScript.
 
-## 📸 Captura de Tela
-
-
-
 
 ## 🚀 Funcionalidades
 
