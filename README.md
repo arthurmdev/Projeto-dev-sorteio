@@ -11,9 +11,11 @@ Bem-vindo ao projeto **Sorteio Online**! Este projeto é uma aplicação web sim
 
 ## 🛠 Tecnologias Utilizadas
 
-- **HTML5** → Estrutura do projeto
-- **CSS3** → Estilização da página
-- **JavaScript** → Lógica do sorteio
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> → **Estrutura do projeto**
+
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> → **Estilização da página**
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> → **Lógica do sorteio**
 
 ## 📂 Como Rodar o Projeto
 
