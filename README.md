@@ -21,7 +21,7 @@ Bem-vindo ao projeto **Sorteio Online**! Este projeto é uma aplicação web sim
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sorteio-online.git
+   git clone https://github.com/arthurmdev/Projeto-dev-sorteio.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
